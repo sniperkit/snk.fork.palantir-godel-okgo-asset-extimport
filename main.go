@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 // Copyright 2016 Palantir Technologies, Inc.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
@@ -21,9 +26,9 @@ import (
 	"github.com/palantir/okgo/checker"
 	"github.com/palantir/pkg/cobracli"
 
-	"github.com/palantir/godel-okgo-asset-extimport/extimport/config"
-	"github.com/palantir/godel-okgo-asset-extimport/extimport/creator"
-	"github.com/palantir/godel-okgo-asset-extimport/generated_src"
+	"github.com/sniperkit/snk.fork.palantir-godel-okgo-asset-extimport/extimport/config"
+	"github.com/sniperkit/snk.fork.palantir-godel-okgo-asset-extimport/extimport/creator"
+	"github.com/sniperkit/snk.fork.palantir-godel-okgo-asset-extimport/generated_src"
 )
 
 func main() {
